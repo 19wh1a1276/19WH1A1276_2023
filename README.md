@@ -1,1 +1,6 @@
-# 19WH1A1276_2023
+## Practice Problems :
+- Two Sum
+- Valid Paranthesis
+- Remove Element
+- Merge Intervals
+- MinStack
